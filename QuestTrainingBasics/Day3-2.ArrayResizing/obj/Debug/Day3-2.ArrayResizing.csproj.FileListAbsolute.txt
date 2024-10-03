@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day3-2.ArrayResizing\bin\Debug\Day3-2.ArrayResizing.exe.config
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day3-2.ArrayResizing\bin\Debug\Day3-2.ArrayResizing.exe
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day3-2.ArrayResizing\bin\Debug\Day3-2.ArrayResizing.pdb
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day3-2.ArrayResizing\obj\Debug\Day3-2.ArrayResizing.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day3-2.ArrayResizing\obj\Debug\Day3-2.ArrayResizing.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day3-2.ArrayResizing\obj\Debug\Day3-2.ArrayResizing.exe
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day3-2.ArrayResizing\obj\Debug\Day3-2.ArrayResizing.pdb

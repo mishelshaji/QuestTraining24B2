@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day3-4.StringFunctions\bin\Debug\Day3-4.StringFunctions.exe.config
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day3-4.StringFunctions\bin\Debug\Day3-4.StringFunctions.exe
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day3-4.StringFunctions\bin\Debug\Day3-4.StringFunctions.pdb
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day3-4.StringFunctions\obj\Debug\Day3-4.StringFunctions.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day3-4.StringFunctions\obj\Debug\Day3-4.StringFunctions.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day3-4.StringFunctions\obj\Debug\Day3-4.StringFunctions.exe
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day3-4.StringFunctions\obj\Debug\Day3-4.StringFunctions.pdb

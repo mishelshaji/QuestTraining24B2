@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day3-1.StringAndNullableArray\bin\Debug\Day3-1.StringAndNullableArray.exe.config
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day3-1.StringAndNullableArray\bin\Debug\Day3-1.StringAndNullableArray.exe
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day3-1.StringAndNullableArray\bin\Debug\Day3-1.StringAndNullableArray.pdb
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day3-1.StringAndNullableArray\obj\Debug\Day3-1.StringAndNullableArray.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day3-1.StringAndNullableArray\obj\Debug\Day3-1.StringAndNullableArray.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day3-1.StringAndNullableArray\obj\Debug\Day3-1.StringAndNullableArray.exe
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day3-1.StringAndNullableArray\obj\Debug\Day3-1.StringAndNullableArray.pdb
