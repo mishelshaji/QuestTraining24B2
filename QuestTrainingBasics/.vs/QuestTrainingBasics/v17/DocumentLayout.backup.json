@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingBasics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0B30C5B-D194-4943-BECC-FCBC8B9D39DC}|Day3-4.StringFunctions\\Day3-4.StringFunctions.csproj|c:\\users\\user\\documents\\github\\questtraining24b2\\questtrainingbasics\\day3-4.stringfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0B30C5B-D194-4943-BECC-FCBC8B9D39DC}|Day3-4.StringFunctions\\Day3-4.StringFunctions.csproj|solutionrelative:day3-4.stringfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F654735B-83EE-4775-A47A-7831B8893F6B}|Dy4-3.StringOperations\\Dy4-3.StringOperations.csproj|c:\\users\\user\\documents\\github\\questtraining24b2\\questtrainingbasics\\dy4-3.stringoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F654735B-83EE-4775-A47A-7831B8893F6B}|Dy4-3.StringOperations\\Dy4-3.StringOperations.csproj|solutionrelative:dy4-3.stringoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBF321CD-03C6-4B46-9A3B-A451CEEAAC21}|Day3-2.ArrayResizing\\Day3-2.ArrayResizing.csproj|c:\\users\\user\\documents\\github\\questtraining24b2\\questtrainingbasics\\day3-2.arrayresizing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBF321CD-03C6-4B46-9A3B-A451CEEAAC21}|Day3-2.ArrayResizing\\Day3-2.ArrayResizing.csproj|solutionrelative:day3-2.arrayresizing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AEEBF42-100A-4631-A211-3932AF33CBDE}|Day3-3.SwitchCase\\Day3-3.SwitchCase.csproj|c:\\users\\user\\documents\\github\\questtraining24b2\\questtrainingbasics\\day3-3.switchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AEEBF42-100A-4631-A211-3932AF33CBDE}|Day3-3.SwitchCase\\Day3-3.SwitchCase.csproj|solutionrelative:day3-3.switchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AB5B261-76B5-426E-BAAB-229D4E673C3A}|Day3-1.StringAndNullableArray\\Day3-1.StringAndNullableArray.csproj|c:\\users\\user\\documents\\github\\questtraining24b2\\questtrainingbasics\\day3-1.stringandnullablearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB5B261-76B5-426E-BAAB-229D4E673C3A}|Day3-1.StringAndNullableArray\\Day3-1.StringAndNullableArray.csproj|solutionrelative:day3-1.stringandnullablearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FA5859A-E46F-4C9D-BC7E-B31AB1625CCD}|Day 3\\Day3.Arrays\\Day3.Arrays.csproj|c:\\users\\user\\documents\\github\\questtraining24b2\\questtrainingbasics\\day 3\\day3.arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FA5859A-E46F-4C9D-BC7E-B31AB1625CCD}|Day 3\\Day3.Arrays\\Day3.Arrays.csproj|solutionrelative:day 3\\day3.arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{784BA8E1-376D-41ED-A23D-9ED46B36475F}|LearnCSharp\\LearnCSharp.csproj|c:\\users\\user\\documents\\github\\questtraining24b2\\questtrainingbasics\\learncsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784BA8E1-376D-41ED-A23D-9ED46B36475F}|LearnCSharp\\LearnCSharp.csproj|solutionrelative:learncsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,65 +28,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingBasics\\Day3-4.StringFunctions\\Program.cs",
-              "RelativeDocumentMoniker": "Day3-4.StringFunctions\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingBasics\\Day3-4.StringFunctions\\Program.cs \u2B24",
-              "RelativeToolTip": "Day3-4.StringFunctions\\Program.cs \u2B24",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBMAAAA7AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingBasics\\Dy4-3.StringOperations\\Program.cs",
+              "RelativeDocumentMoniker": "Dy4-3.StringOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingBasics\\Dy4-3.StringOperations\\Program.cs",
+              "RelativeToolTip": "Dy4-3.StringOperations\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T11:42:32.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingBasics\\Day3-3.SwitchCase\\Program.cs",
-              "RelativeDocumentMoniker": "Day3-3.SwitchCase\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingBasics\\Day3-3.SwitchCase\\Program.cs",
-              "RelativeToolTip": "Day3-3.SwitchCase\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T11:41:32.709Z",
+              "WhenOpened": "2024-10-04T11:58:38.35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingBasics\\Day3-2.ArrayResizing\\Program.cs",
-              "RelativeDocumentMoniker": "Day3-2.ArrayResizing\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingBasics\\Day3-2.ArrayResizing\\Program.cs",
-              "RelativeToolTip": "Day3-2.ArrayResizing\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingBasics\\LearnCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "LearnCSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingBasics\\LearnCSharp\\Program.cs",
+              "RelativeToolTip": "LearnCSharp\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T06:24:58.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingBasics\\Day3-1.StringAndNullableArray\\Program.cs",
-              "RelativeDocumentMoniker": "Day3-1.StringAndNullableArray\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingBasics\\Day3-1.StringAndNullableArray\\Program.cs",
-              "RelativeToolTip": "Day3-1.StringAndNullableArray\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T05:43:03.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingBasics\\Day 3\\Day3.Arrays\\Program.cs",
-              "RelativeDocumentMoniker": "Day 3\\Day3.Arrays\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingBasics\\Day 3\\Day3.Arrays\\Program.cs",
-              "RelativeToolTip": "Day 3\\Day3.Arrays\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBkAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T05:07:32.133Z",
+              "WhenOpened": "2024-10-04T09:44:39.49Z",
               "EditorCaption": ""
             }
           ]

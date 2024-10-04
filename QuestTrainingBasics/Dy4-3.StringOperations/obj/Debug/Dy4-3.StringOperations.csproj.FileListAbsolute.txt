@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Dy4-3.StringOperations\bin\Debug\Dy4-3.StringOperations.exe.config
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Dy4-3.StringOperations\bin\Debug\Dy4-3.StringOperations.exe
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Dy4-3.StringOperations\bin\Debug\Dy4-3.StringOperations.pdb
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Dy4-3.StringOperations\obj\Debug\Dy4-3.StringOperations.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Dy4-3.StringOperations\obj\Debug\Dy4-3.StringOperations.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Dy4-3.StringOperations\obj\Debug\Dy4-3.StringOperations.exe
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Dy4-3.StringOperations\obj\Debug\Dy4-3.StringOperations.pdb

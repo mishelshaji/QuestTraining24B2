@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\LearnCSharp\bin\Debug\LearnCSharp.exe.config
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\LearnCSharp\bin\Debug\LearnCSharp.exe
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\LearnCSharp\bin\Debug\LearnCSharp.pdb
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\LearnCSharp\obj\Debug\LearnCSharp.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\LearnCSharp\obj\Debug\LearnCSharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\LearnCSharp\obj\Debug\LearnCSharp.exe
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\LearnCSharp\obj\Debug\LearnCSharp.pdb

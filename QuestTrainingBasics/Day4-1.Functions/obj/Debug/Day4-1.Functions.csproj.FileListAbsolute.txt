@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day4-1.Functions\bin\Debug\Day4-1.Functions.exe.config
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day4-1.Functions\bin\Debug\Day4-1.Functions.exe
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day4-1.Functions\bin\Debug\Day4-1.Functions.pdb
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day4-1.Functions\obj\Debug\Day4-1.Functions.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day4-1.Functions\obj\Debug\Day4-1.Functions.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day4-1.Functions\obj\Debug\Day4-1.Functions.exe
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day4-1.Functions\obj\Debug\Day4-1.Functions.pdb
