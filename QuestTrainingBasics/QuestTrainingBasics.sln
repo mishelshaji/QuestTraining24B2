@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dy4-3.StringOperations", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnCSharp", "LearnCSharp\LearnCSharp.csproj", "{784BA8E1-376D-41ED-A23D-9ED46B36475F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 5", "Day 5", "{0C2DAA8D-742C-454E-8EF6-7FBD95DA7411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5-1.Namespaces", "..\Day 5\Day5-1.Namespaces\Day5-1.Namespaces.csproj", "{EAF6CD43-6750-4E17-A9EB-EBE2EC80D0A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +71,10 @@ Global
 		{784BA8E1-376D-41ED-A23D-9ED46B36475F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{784BA8E1-376D-41ED-A23D-9ED46B36475F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{784BA8E1-376D-41ED-A23D-9ED46B36475F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF6CD43-6750-4E17-A9EB-EBE2EC80D0A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF6CD43-6750-4E17-A9EB-EBE2EC80D0A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF6CD43-6750-4E17-A9EB-EBE2EC80D0A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF6CD43-6750-4E17-A9EB-EBE2EC80D0A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -80,6 +88,7 @@ Global
 		{98ADCCFF-B82D-4F3C-AE2C-97FDF43BB690} = {2A2F22F9-7A30-4A0E-9A14-F315FEC71AD4}
 		{D7AEBF2F-E92F-4F65-9698-58D9170C79C0} = {2A2F22F9-7A30-4A0E-9A14-F315FEC71AD4}
 		{F654735B-83EE-4775-A47A-7831B8893F6B} = {2A2F22F9-7A30-4A0E-9A14-F315FEC71AD4}
+		{EAF6CD43-6750-4E17-A9EB-EBE2EC80D0A9} = {0C2DAA8D-742C-454E-8EF6-7FBD95DA7411}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D78C6ED4-F7D5-47FC-8D38-EB1BBD279E3B}

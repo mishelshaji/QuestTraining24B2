@@ -11,20 +11,15 @@ namespace LearnCSharp
     {
         static void Main(string[] args)
         {
-            // 1
-            // 2 3
-            // 4 5 6
-            // 7 8 8 10
-            int rows = 6;
-            int count = 1;
-            for (int i = 0; i < rows; i++)
+            string data = "Hello World";
+            for (int i = 0; i < data.Length; i++)
             {
-                for(int j = 0; j <=i; j++)
-                {
-                    //Console.Write("{0, 3}", count++);
-                    Console.Write($"{count++, -3}");
-                }
-                Console.WriteLine();
+                Console.WriteLine(data[i]);
+            }
+
+            foreach (var item in data)
+            {
+                Console.WriteLine(item);
             }
         }
     }

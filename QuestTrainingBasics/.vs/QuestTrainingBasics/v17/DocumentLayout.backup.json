@@ -3,12 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingBasics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F654735B-83EE-4775-A47A-7831B8893F6B}|Dy4-3.StringOperations\\Dy4-3.StringOperations.csproj|c:\\users\\user\\documents\\github\\questtraining24b2\\questtrainingbasics\\dy4-3.stringoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F654735B-83EE-4775-A47A-7831B8893F6B}|Dy4-3.StringOperations\\Dy4-3.StringOperations.csproj|solutionrelative:dy4-3.stringoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAF6CD43-6750-4E17-A9EB-EBE2EC80D0A9}|..\\Day 5\\Day5-1.Namespaces\\Day5-1.Namespaces.csproj|c:\\users\\user\\documents\\github\\questtraining24b2\\day 5\\day5-1.namespaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{784BA8E1-376D-41ED-A23D-9ED46B36475F}|LearnCSharp\\LearnCSharp.csproj|c:\\users\\user\\documents\\github\\questtraining24b2\\questtrainingbasics\\learncsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{784BA8E1-376D-41ED-A23D-9ED46B36475F}|LearnCSharp\\LearnCSharp.csproj|solutionrelative:learncsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F654735B-83EE-4775-A47A-7831B8893F6B}|Dy4-3.StringOperations\\Dy4-3.StringOperations.csproj|C:\\Users\\user\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingBasics\\dy4-3.stringoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F654735B-83EE-4775-A47A-7831B8893F6B}|Dy4-3.StringOperations\\Dy4-3.StringOperations.csproj|solutionrelative:dy4-3.stringoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,14 +31,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\QuestTraining24B2\\Day 5\\Day5-1.Namespaces\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 5\\Day5-1.Namespaces\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\QuestTraining24B2\\Day 5\\Day5-1.Namespaces\\Program.cs",
+              "RelativeToolTip": "..\\Day 5\\Day5-1.Namespaces\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:45:32.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingBasics\\Dy4-3.StringOperations\\Program.cs",
               "RelativeDocumentMoniker": "Dy4-3.StringOperations\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingBasics\\Dy4-3.StringOperations\\Program.cs",
               "RelativeToolTip": "Dy4-3.StringOperations\\Program.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAADYAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T11:58:38.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T11:58:38.35Z"
             },
             {
               "$type": "Document",
@@ -45,7 +60,7 @@
               "RelativeDocumentMoniker": "LearnCSharp\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingBasics\\LearnCSharp\\Program.cs",
               "RelativeToolTip": "LearnCSharp\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBIAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T09:44:39.49Z",
               "EditorCaption": ""
