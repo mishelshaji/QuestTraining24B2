@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day5-6.DictionaryType\bin\Debug\Day5-6.DictionaryType.exe.config
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day5-6.DictionaryType\bin\Debug\Day5-6.DictionaryType.exe
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day5-6.DictionaryType\bin\Debug\Day5-6.DictionaryType.pdb
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day5-6.DictionaryType\obj\Debug\Day5-6.DictionaryType.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day5-6.DictionaryType\obj\Debug\Day5-6.DictionaryType.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day5-6.DictionaryType\obj\Debug\Day5-6.DictionaryType.exe
+C:\Users\user\Documents\GitHub\QuestTraining24B2\QuestTrainingBasics\Day5-6.DictionaryType\obj\Debug\Day5-6.DictionaryType.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\QuestTraining24B2\Day 5\Day5-2.DateAndTime\bin\Debug\Day5-2.DateAndTime.exe.config
+C:\Users\user\Documents\GitHub\QuestTraining24B2\Day 5\Day5-2.DateAndTime\bin\Debug\Day5-2.DateAndTime.exe
+C:\Users\user\Documents\GitHub\QuestTraining24B2\Day 5\Day5-2.DateAndTime\bin\Debug\Day5-2.DateAndTime.pdb
+C:\Users\user\Documents\GitHub\QuestTraining24B2\Day 5\Day5-2.DateAndTime\obj\Debug\Day5-2.DateAndTime.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\QuestTraining24B2\Day 5\Day5-2.DateAndTime\obj\Debug\Day5-2.DateAndTime.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\QuestTraining24B2\Day 5\Day5-2.DateAndTime\obj\Debug\Day5-2.DateAndTime.exe
+C:\Users\user\Documents\GitHub\QuestTraining24B2\Day 5\Day5-2.DateAndTime\obj\Debug\Day5-2.DateAndTime.pdb

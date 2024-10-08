@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\QuestTraining24B2\Day 5\Day5-4.ListDatatype\bin\Debug\Day5_4.ListDatatype.exe.config
+C:\Users\user\Documents\GitHub\QuestTraining24B2\Day 5\Day5-4.ListDatatype\bin\Debug\Day5_4.ListDatatype.exe
+C:\Users\user\Documents\GitHub\QuestTraining24B2\Day 5\Day5-4.ListDatatype\bin\Debug\Day5_4.ListDatatype.pdb
+C:\Users\user\Documents\GitHub\QuestTraining24B2\Day 5\Day5-4.ListDatatype\obj\Debug\Day5-4.ListDatatype.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\QuestTraining24B2\Day 5\Day5-4.ListDatatype\obj\Debug\Day5-4.ListDatatype.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\QuestTraining24B2\Day 5\Day5-4.ListDatatype\obj\Debug\Day5_4.ListDatatype.exe
+C:\Users\user\Documents\GitHub\QuestTraining24B2\Day 5\Day5-4.ListDatatype\obj\Debug\Day5_4.ListDatatype.pdb

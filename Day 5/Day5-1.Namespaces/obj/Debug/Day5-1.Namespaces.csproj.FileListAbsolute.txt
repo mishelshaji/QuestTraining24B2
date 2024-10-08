@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\QuestTraining24B2\Day 5\Day5-1.Namespaces\bin\Debug\Day5-1.Namespaces.exe.config
+C:\Users\user\Documents\GitHub\QuestTraining24B2\Day 5\Day5-1.Namespaces\bin\Debug\Day5-1.Namespaces.exe
+C:\Users\user\Documents\GitHub\QuestTraining24B2\Day 5\Day5-1.Namespaces\bin\Debug\Day5-1.Namespaces.pdb
+C:\Users\user\Documents\GitHub\QuestTraining24B2\Day 5\Day5-1.Namespaces\obj\Debug\Day5-1.Namespaces.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\QuestTraining24B2\Day 5\Day5-1.Namespaces\obj\Debug\Day5-1.Namespaces.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\QuestTraining24B2\Day 5\Day5-1.Namespaces\obj\Debug\Day5-1.Namespaces.exe
+C:\Users\user\Documents\GitHub\QuestTraining24B2\Day 5\Day5-1.Namespaces\obj\Debug\Day5-1.Namespaces.pdb

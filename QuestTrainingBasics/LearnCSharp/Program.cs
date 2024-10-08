@@ -11,15 +11,32 @@ namespace LearnCSharp
     {
         static void Main(string[] args)
         {
-            string data = "Hello World";
-            for (int i = 0; i < data.Length; i++)
+            var d = new Dictionary<string, List<int>>();
+
+            while (true) 
             {
-                Console.WriteLine(data[i]);
+                Console.Write("Enter an ID or q to exit: ");
+                var option = Console.ReadLine();
+
+                if(option == "q")
+                {
+                    break;
+                }
+
+                var marks = new List<int>();
+                for (int i = 1; i <= 3; i++)
+                {
+                    Console.Write($"Enter mark {i}: ");
+                    var mark = int.Parse(Console.ReadLine());
+                    marks.Add(mark);
+                }
+
+                d.Add(option, marks);
             }
 
-            foreach (var item in data)
+            foreach (var item in d)
             {
-                Console.WriteLine(item);
+                Console.WriteLine($"{item.Key}: {string.Join(", ", item.Value)}");
             }
         }
     }
