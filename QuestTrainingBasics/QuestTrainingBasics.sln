@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5-1.Namespaces", "..\Day
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5-2.DateAndTime", "..\Day 5\Day5-2.DateAndTime\Day5-2.DateAndTime.csproj", "{C6CFF4E5-F239-4A96-BCE4-7F4AC86EF964}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnCSharpDotNetCore", "LearnCSharpDotNetCore\LearnCSharpDotNetCore.csproj", "{02D7B5BF-FD2B-4CCB-8D9C-848BBF045071}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearnCSharpDotNetCore", "LearnCSharpDotNetCore\LearnCSharpDotNetCore.csproj", "{02D7B5BF-FD2B-4CCB-8D9C-848BBF045071}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5-3.ObjectType", "..\Day 5\Day5-3.ObjectType\Day5-3.ObjectType.csproj", "{C9DC240D-0B07-4EC2-808A-EF59ACFF639F}"
 EndProject
@@ -40,6 +40,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5-5.NestedList", "..\Day 5\Day5-5.NestedList\Day5-5.NestedList.csproj", "{F22A6ADE-2EB7-4DD6-9048-BCA0EC86A8ED}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5-6.DictionaryType", "..\Day 5\Day5-6.DictionaryType\Day5-6.DictionaryType.csproj", "{65F19199-136F-4EEE-9B0E-FE520875B390}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 6", "Day 6", "{01392124-6CA7-4575-9890-4DC778F0C155}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
